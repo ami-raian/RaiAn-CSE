@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Robiul Hasan RaiAn...
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh]([https://i.ibb.co/LJhs37k/raian1.png](https://i.ibb.co/pzmCH27/raian2.png))
+![A passionate frontend developer from Bangladesh](https://i.ibb.co/pzmCH27/raian2.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
