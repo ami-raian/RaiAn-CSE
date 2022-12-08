@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdur Rahman Apu</h1>
+<h1 align="center">Hi 👋, I'm Robiul Hasan Raian</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdur-rahman-apu&label=Profile%20views&color=0e75b6&style=flat" alt="abdur-rahman-apu" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Deep learning, Javascript, PHP, Pyspark.
 
-- 📫 How to reach me abdur15-13025@diu.edu.bd
+- 📫 How to reach me robiul15-12392@diu.edu.bd
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
