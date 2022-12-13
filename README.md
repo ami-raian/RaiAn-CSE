@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robiul Hasan Raian</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdur-rahman-apu&label=Profile%20views&color=0e75b6&style=flat" alt="abdur-rahman-apu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaiAn-CSE&label=Profile%20views&color=0e75b6&style=flat" alt="RaiAn-CSE" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdur-rahman-apu" alt="abdur-rahman-apu" /></a> </p>
 
