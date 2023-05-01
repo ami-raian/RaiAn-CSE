@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RaiAn-CSE" alt="RaiAn-CSE" /></a> </p>
 
-- 🌱 I’m currently learning Deep learning, Javascript, Firebase, MongoDb, NpdeJs.
+- 🌱 I’m currently learning Deep learning, Javascript, Firebase, MongoDb, NodeJs.
 
 - 📫 How to reach me robiul15-12392@diu.edu.bd
 
