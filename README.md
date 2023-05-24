@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Deep learning, Javascript, Firebase, MongoDb, NodeJs.
 
-- 📫 How to reach me robiul15-12392@diu.edu.bd
+- 📫 How to reach me robiul15-12392@diu.edu.bd or ami.robirai@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
