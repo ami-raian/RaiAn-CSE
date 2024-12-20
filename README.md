@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, This is Robiul Hasan Raian</h1>
+<h1 align="center">Hi There👋, This is Robiul Hasan Raian</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaiAn-CSE&label=Profile%20views&color=0e75b6&style=flat" alt="RaiAn-CSE" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RaiAn-CSE" alt="RaiAn-CSE" /></a> </p>
 
-- 🌱 I’m currently learning Deep learning, Javascript, Firebase, MongoDb, NodeJs.
+- 🌱 I’m currently learning in-depth- Deep learning, Javascript, MongoDB, and NodeJs.
 
 - 📫 How to reach me robiul15-12392@diu.edu.bd or ami.robirai@gmail.com
 
