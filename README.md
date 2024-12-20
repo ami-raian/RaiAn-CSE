@@ -1,5 +1,4 @@
 <h1 align="center">Hi There 👋, This is Robiul Hasan Raian</h1>
-<h3 align="center">MERN STACK (Web Developer)</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/robiul-hasan-raian-074b282a2/" target="_blank" rel="noreferrer">
@@ -11,14 +10,13 @@
     <img src="https://komarev.com/ghpvc/?username=RaiAn-CSE&label=Profile%20views&color=0e75b6&style=flat"
         alt="RaiAn-CSE" />
 </p>
-
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
 <p align="center">
     <a href="https://ami-raian.netlify.app/" target="_blank">Portfolio</a> |
     <a href="https://github.com/RaiAn-CSE" target="_blank">GitHub</a> |
     <a href="https://www.linkedin.com/in/robiul-hasan-raian-074b282a2/" target="_blank">LinkedIn</a>
 </p>
+
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
