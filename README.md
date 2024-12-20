@@ -1,13 +1,5 @@
 <h1 align="center">Hi There 👋, This is Robiul Hasan Raian</h1>
 <h3 align="center">MERN STACK (Web Developer)</h3>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="center">
-    <a href="https://ami-raian.netlify.app/" target="_blank">Portfolio</a> |
-    <a href="https://github.com/RaiAn-CSE" target="_blank">GitHub</a> |
-    <a href="https://www.linkedin.com/in/robiul-hasan-raian-074b282a2/" target="_blank">LinkedIn</a>
-</p>
-
 
 <p align="center">
     <a href="https://www.linkedin.com/in/robiul-hasan-raian-074b282a2/" target="_blank" rel="noreferrer">
@@ -15,10 +7,17 @@
             alt="LinkedIn" width="100%" />
     </a>
 </p>
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=RaiAn-CSE&label=Profile%20views&color=0e75b6&style=flat"
         alt="RaiAn-CSE" />
+</p>
+
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<p align="center">
+    <a href="https://ami-raian.netlify.app/" target="_blank">Portfolio</a> |
+    <a href="https://github.com/RaiAn-CSE" target="_blank">GitHub</a> |
+    <a href="https://www.linkedin.com/in/robiul-hasan-raian-074b282a2/" target="_blank">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -34,8 +33,8 @@
             alt="JavaScript" width="40" height="40" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Antu_mongodb.svg" alt="MongoDB" width="40"
-            height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+            alt="MongoDB" width="40" height="40" />
     </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40"
@@ -157,5 +156,3 @@ BSc in Computer Science and Engineering
 ### 🌐 Languages
 - **Bengali:** Native
 - **English:** Good
-
----
