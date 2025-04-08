@@ -1,19 +1,6 @@
 <h1 align="center">Hi There 👋, This is Robiul Hasan Raian</h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/robiul-hasan-raian/"
-   target="_blank"
-   rel="noreferrer"
-   style="display: flex; align-items: center; justify-content: center; gap: 8px; text-decoration: none; color: inherit;"
-   >
-  <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png"
-       alt="LinkedIn"
-       width="50"
-       height="50"
-       style="margin-right: 6px;" />
-  <span>LinkedIn</span>
-</a>
-</p>
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ami-raian&label=Profile%20views&color=0e75b6&style=flat"
         alt="ami-raian" />
