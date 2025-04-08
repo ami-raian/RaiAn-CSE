@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, This is Robiul Hasan Raian</h1>
 
 <p align="center">
-    <a href="www.linkedin.com/in/robiul-hasan-raian" target="_blank" rel="noreferrer">
+    <a href="www.linkedin.com/in/robiul-hasan-raian/" target="_blank" rel="noreferrer">
         <img src="https://media.licdn.com/dms/image/v2/D5616AQE2Kmud9vC0-A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701594870555?e=1740009600&v=beta&t=q7kue4uf7n08zSukSc7qE9vdpuDXCMnKVXBuJlTnBt4"
             alt="LinkedIn" width="100%" />
     </a>
@@ -13,7 +13,7 @@
 <p align="center">
     <a href="https://ami-raian.netlify.app/" target="_blank">Portfolio</a> |
     <a href="https://github.com/ami-raian" target="_blank">GitHub</a> |
-    <a href="https://www.linkedin.com/in/robiul-hasan-raian-074b282a2/" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/robiul-hasan-raian/" target="_blank">LinkedIn</a>
 </p>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
