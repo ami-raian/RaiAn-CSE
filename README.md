@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="www.linkedin.com/in/robiul-hasan-raian/" target="_blank" rel="noreferrer">
-        <img src="https://media.licdn.com/dms/image/v2/D5616AQE2Kmud9vC0-A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701594870555?e=1740009600&v=beta&t=q7kue4uf7n08zSukSc7qE9vdpuDXCMnKVXBuJlTnBt4"
+        <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png"
             alt="LinkedIn" width="100%" />
     </a>
 </p>
