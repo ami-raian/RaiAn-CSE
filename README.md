@@ -10,7 +10,7 @@
        width="20"
        height="20"
        style="margin-right: 6px;" />
-  LinkedIn
+  <span>LinkedIn</span>
 </a>
 </p>
 <p align="left">
