@@ -7,12 +7,12 @@
     </a>
 </p>
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=RaiAn-CSE&label=Profile%20views&color=0e75b6&style=flat"
-        alt="RaiAn-CSE" />
+    <img src="https://komarev.com/ghpvc/?username=ami-raian&label=Profile%20views&color=0e75b6&style=flat"
+        alt="ami-raian" />
 </p>
 <p align="center">
     <a href="https://ami-raian.netlify.app/" target="_blank">Portfolio</a> |
-    <a href="https://github.com/RaiAn-CSE" target="_blank">GitHub</a> |
+    <a href="https://github.com/ami-raian" target="_blank">GitHub</a> |
     <a href="https://www.linkedin.com/in/robiul-hasan-raian-074b282a2/" target="_blank">LinkedIn</a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=RaiAn-CSE" alt="RaiAn-CSE" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ami-raian" alt="ami-raian" />
     </a>
 </p>
 
@@ -109,26 +109,26 @@ adept at tackling extreme challenges in web development.
 - Features secure file storage (Google Drive), JWT-based login, and payment gateways (Paytm & Stripe).
 - Built with Tailwind CSS, Daisy UI, React, and Framer Motion.
 - **Links:** [Live](https://bobbili-urban-development-authority.netlify.app/) |
-[Client](https://github.com/RaiAn-CSE/Bobbili-urban-development-authority-client.git) |
-[Server](https://github.com/RaiAn-CSE/Bobbili-urban-development-authority-server.git)
+[Client](https://github.com/ami-raian/Bobbili-urban-development-authority-client.git) |
+[Server](https://github.com/ami-raian/Bobbili-urban-development-authority-server.git)
 
 2. **Public Health-Care System**
 - Enables doctor posts, admin controls, patient-doctor chat, and appointment booking with email notifications.
 - Real-time conversations for better communication, with social media-like features.
-- **Links:** [Live](https://public-healthcare.vercel.app/) | [Client](https://github.com/RaiAn-CSE/docApp_client) |
-[Server](https://github.com/RaiAn-CSE/docApp_server)
+- **Links:** [Live](https://public-healthcare.vercel.app/) | [Client](https://github.com/ami-raian/docApp_client) |
+[Server](https://github.com/ami-raian/docApp_server)
 
 3. **Rent Us BD**
 - A platform for property owners and renters to connect via live chat.
 - Features real-time messaging and a clean interface built with Bootstrap, React, vanilla CSS, and Firebase.
-- **Links:** [Live](https://rentusbd.web.app/) | [Client](https://github.com/RaiAn-CSE/rentUsBd-client) |
-[Server](https://github.com/RaiAn-CSE/rentUsBd-server)
+- **Links:** [Live](https://rentusbd.web.app/) | [Client](https://github.com/ami-raian/rentUsBd-client) |
+[Server](https://github.com/ami-raian/rentUsBd-server)
 
 4. **Track Down**
 - Reunites families with lost loved ones using advanced face recognition technology (95% accuracy).
 - Built with Face API, React, Tailwind CSS, and Daisy UI.
-- **Links:** [Live](https://track-down-da01d.web.app/) | [Client](https://github.com/RaiAn-CSE/Track-Down) |
-[Server](https://github.com/RaiAn-CSE/Track-Down-Server)
+- **Links:** [Live](https://track-down-da01d.web.app/) | [Client](https://github.com/ami-raian/Track-Down) |
+[Server](https://github.com/ami-raian/Track-Down-Server)
 
 ---
 
