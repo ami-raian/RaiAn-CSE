@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, This is Robiul Hasan Raian</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/robiul-hasan-raian" target="_blank" rel="noreferrer">
+    <a href="www.linkedin.com/in/robiul-hasan-raian" target="_blank" rel="noreferrer">
         <img src="https://media.licdn.com/dms/image/v2/D5616AQE2Kmud9vC0-A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701594870555?e=1740009600&v=beta&t=q7kue4uf7n08zSukSc7qE9vdpuDXCMnKVXBuJlTnBt4"
             alt="LinkedIn" width="100%" />
     </a>
