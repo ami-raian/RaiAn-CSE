@@ -3,7 +3,7 @@
 <p align="center">
     <a href="www.linkedin.com/in/robiul-hasan-raian/" target="_blank" rel="noreferrer">
         <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png"
-            alt="LinkedIn" width="100%" />
+            alt="LinkedIn" width="20" height="20" />
     </a>
 </p>
 <p align="left">
